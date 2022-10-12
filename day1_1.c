@@ -12,7 +12,7 @@
 #include<stdio.h>
 void main()
 {
-    int a[5],n,i;
+    int a[6],n,i;
     printf("enter no. of element:");
     scanf("%d",&n);
     for(i=0;i<n;i++)
